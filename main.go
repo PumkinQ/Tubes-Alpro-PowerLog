@@ -8,12 +8,6 @@ type elektronik struct {
 	durasi    int
 }
 
-func sorting(watt, durasi int) {
-
-for i := 0; i <
-
-}
-
 var daftarElektronik [1000]elektronik
 
 func main() {
